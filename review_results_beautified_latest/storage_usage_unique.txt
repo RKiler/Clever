@@ -1,0 +1,6 @@
+﻿clear()
+document.cookie
+getItem(
+localStorage
+removeItem(
+setItem(

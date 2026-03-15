@@ -1,0 +1,10 @@
+﻿api_urls: 5020
+paths_endpoints: 1025
+graphql_hints: 11
+auth_keywords: 19
+token_secret_like: 2
+dangerous_dom_sinks: 5
+postmessage_usage: 4
+storage_usage: 6
+fetch_xhr_usage: 6
+webhook_admin_invite_export_role_terms: 11

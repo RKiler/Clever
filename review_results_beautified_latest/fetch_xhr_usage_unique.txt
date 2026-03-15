@@ -1,0 +1,6 @@
+﻿.open("GET"
+.open("POST"
+axios.
+fetch(
+WebSocket(
+XMLHttpRequest
